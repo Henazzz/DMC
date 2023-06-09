@@ -1,0 +1,36 @@
+header {
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 1rem;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  li {
+    margin-right: 1rem;
+    
+  }
+  
+  li:last-of-type {
+    margin-right: 0;
+  }
+  
+  .list a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  Link:hover {
+    color: #6c757d;
+  }
+  
